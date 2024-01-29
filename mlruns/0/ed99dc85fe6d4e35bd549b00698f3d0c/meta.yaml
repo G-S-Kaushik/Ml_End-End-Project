@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gskau/OneDrive/Desktop/End-End-MLProject/mlruns/0/ed99dc85fe6d4e35bd549b00698f3d0c/artifacts
+end_time: 1706508331208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed99dc85fe6d4e35bd549b00698f3d0c
+run_name: adorable-ape-272
+run_uuid: ed99dc85fe6d4e35bd549b00698f3d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706508320015
+status: 3
+tags: []
+user_id: root
